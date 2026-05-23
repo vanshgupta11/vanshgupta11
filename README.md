@@ -26,9 +26,9 @@ const vansh = {
   name: "Vansh Gupta",
   role: "Full Stack Developer",
   college: "Final Year B.Tech",
-  passions: ["3D Web", "GenAI", "UI/UX"],
+  passions: ["3D Web", "GenAI", "UI/UX" , "MERN Stack"],
   currentlyBuilding: "AI-powered web app",
-  learning: ["LangChain", "LLMs", "n8n"],
+  learning: [ "LLMs", "n8n"],
   funFact: "I blend art with code 🎨",
   openTo: "Collaborations & Opportunities"
 };
