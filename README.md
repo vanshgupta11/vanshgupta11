@@ -49,7 +49,7 @@ const vansh = {
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vansh-gupta-11.vercel.app/-a855f7?style=for-the-badge&labelColor=1a1a2e)](https://vansh-gupta-11.vercel.app/)
+[[Portfolio](https://vansh-gupta-11.vercel.app/)]
 
 </td>
 </tr>
